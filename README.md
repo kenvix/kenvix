@@ -4,7 +4,7 @@
 
 最近又整了什么新活？
 
-![](1.jpg)
+![](https://github.com/kenvix/kenvix/raw/master/1.jpg)
 
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=fff)
