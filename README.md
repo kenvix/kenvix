@@ -6,7 +6,7 @@
 
 ![](https://github.com/kenvix/kenvix/raw/master/1.jpg)
 
-![](https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+![](https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8f)
 
 还要学习一个
 
