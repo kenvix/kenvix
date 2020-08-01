@@ -1,12 +1,10 @@
 🐟 摸鱼爱好者，业余写代码。干啥啥不行，整活第一名。
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=profile.github._virtual_.kenvix.com)
-
 最近又整了什么新活？
 
-![](https://github.com/kenvix/kenvix/raw/master/1.jpg)
+<img src='https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8' style='float: right;' />
 
-![](https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8f)
+<img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='300px' height='200px' style='float: left;'>
 
 还要学习一个
 
