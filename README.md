@@ -2,9 +2,7 @@
 
 最近又整了什么新活？
 
-<img src='https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8' style='float: right;' />
-
-<img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='300px' height='200px' style='float: left;'>
+<img src="https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8" style='float: right;' /><img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='100px' height='100px' style='float: left;'>
 
 还要学习一个
 
