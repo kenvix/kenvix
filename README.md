@@ -4,7 +4,7 @@
 
 <img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='300px' height='200px' style='float: left;'/> <img src="https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8" style='float: right;' />
 
-还要学习一个
+经常整的活
 
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=fff)
