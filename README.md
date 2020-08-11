@@ -2,7 +2,9 @@
 
 最近又整了什么新活？
 
-<img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='300px' height='200px' style='float: left;'/> <img src="https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&hide_border=true&icon_color=6a5c8f&title_color=6a5c8" style='float: right;' />
+<img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='100%' height='200px' style='float: left;'/>
+
+<a href="https://github.com/mokeyjay"><img src="https://github-readme-stats.vercel.app/api?username=kenvix&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenvix&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
 经常整的活
 
@@ -14,5 +16,3 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kenvix)
