@@ -1,6 +1,6 @@
 🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生
 
-🐟 Hi there, this is Kenvix, a amateur programmer & *lazy* college student majored in computer science.
+🐟 Hi there, this is Kenvix, a slacking off lover(*touching fish lover*) amateur programmer & *lazy* college student majored in computer science.
 
 最近又整了什么新活？
 
