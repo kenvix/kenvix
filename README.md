@@ -1,5 +1,7 @@
 🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生
 
+🐟 Hi there, this is Kenvix, a amateur programmer & *lazy* college student majored in computer science.
+
 最近又整了什么新活？
 
 <img src='https://github.com/kenvix/kenvix/raw/master/1.jpg' width='100%' height='200px' style='float: left;'/>
