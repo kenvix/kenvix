@@ -1,6 +1,6 @@
 🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生
 
-🐟 Hi there, this is Kenvix, a slacking off enthusiast(*touching fish enthusiast*) & amateur programmer & *lazy* college student majored in computer science.
+🐟 Hi there, this is Kenvix, a touching fish enthusiast & amateur programmer & college student majored in computer science.
 
 最近又整了什么新活？
 
@@ -19,4 +19,4 @@
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
 
-🐟🐠🐡🐳🦈🐬🐋🐟
+🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐠🐡🐳🦈🐬🐋🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟
