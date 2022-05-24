@@ -1,6 +1,6 @@
 🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生
 
-🐟 Hi there, this is Kenvix, a touching fish enthusiast & amateur programmer & ~~college~~ postgraduate student majored in ~~computer science~~ computer graphics.
+🐟 Hi there, this is Kenvix, a touching fish enthusiast & amateur programmer & ~~college~~ postgraduate student majored in ~~computer science~~ computer graphics and cyber security.
 
 最近又整了什么新活？
 
