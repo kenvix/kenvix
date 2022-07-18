@@ -1,4 +1,4 @@
-🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生 -> [博客](https://kenvix.com/)
+🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生 -> [✨ 博客](https://kenvix.com/)
 
 🐟 Hi there, this is Kenvix, a touching fish enthusiast & amateur programmer & postgraduate student majored in computer graphics and cyber security.
 
