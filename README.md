@@ -11,7 +11,7 @@
 经常整的活
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-a97bff?style=flat-square&logo=Kotlin&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=openjdk&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-525d94?style=flat-square&logo=PHP&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-5aa3c7?style=flat-square&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=Cplusplus&logoColor=fff)
