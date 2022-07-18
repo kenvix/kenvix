@@ -1,4 +1,4 @@
-🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生
+🐟 摸鱼爱好者，业余写代码的计科咸鱼带学生 -> [博客](https://kenvix.com/)
 
 🐟 Hi there, this is Kenvix, a touching fish enthusiast & amateur programmer & postgraduate student majored in computer graphics and cyber security.
 
@@ -21,4 +21,5 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
 
-🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐠🐡🐳🦈🐬🐋🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟
+🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐠🐡🐳🦈🐬🐋🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟
+![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=kenvix.kenvix.readme)
